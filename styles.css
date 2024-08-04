@@ -37,6 +37,10 @@ body {
     font-weight: 600;
     font-size: 20px;
     margin-top: 20px;
+    background: pink;
+    box-shadow: 3px 3px;
+    padding: 10px;
+    width: fit-content;
 }
 
 .fi-list {
