@@ -137,6 +137,7 @@ body {
 
 #about {
     padding-top: 64px;
+    line-height: 23px
 }
 
 #experience {
@@ -199,6 +200,9 @@ body {
     font-size: 14px;
     background-color: #fff;
     padding: 20px 15px;
+}
+.exp-info {
+    line-height: 21px;
 }
 
 .exp-txt {
@@ -288,6 +292,10 @@ div#projects {
     font-size: 14px;
     background-color: #fff;
     padding: 20px 15px;
+}
+
+.pro-info {
+    line-height: 21px;
 }
 
 .pro-skills {
