@@ -205,6 +205,12 @@ body {
     width: calc(100% - 110px);
 }
 
+.exp-skills {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
 div#projects {
     padding-top: 64px;
 }
@@ -395,7 +401,7 @@ div#projects {
         font-style: italic;
     }
 
-    .pro-skills {
+    .pro-skills, .exp-skills {
         flex-wrap: wrap;
     }
 
